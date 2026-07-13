@@ -81,18 +81,18 @@ Você deve apresentar seu plano de ação na reunião de **"Sprint Planning"**. 
 
 ## Entrega
 
-### 1. Os documentos, num fork deste repositório
+### 1. Os entregáveis, num Jupyter Notebook (`.ipynb`), no fork deste repositório
 
 Faça um **fork** deste repositório (botão *Fork*, no topo da página), trabalhe nele e nos mande o link do seu fork. Não abra Pull Request — assim um candidato não vê a solução do outro.
 
-O fork deve conter:
+Reúna os três entregáveis escritos em **um único Jupyter Notebook (`.ipynb`)**, documentado, com uma seção por entregável:
 
-- **Entregável 1 — Auditoria e Matriz de Risco**: um documento (`.md` ou `.pdf`) com as 3 anomalias, a matriz de severidade/impacto e as instruções ao Cientista de Dados;
-- **Entregável 2 — Backlog Ágil**: as User Stories e os Critérios de Aceite (`.md` ou `.pdf`);
-- **Entregável 3 — Relatório Executivo**: o comunicado de até 1 página à Diretoria (`.md` ou `.pdf`);
+- **Entregável 1 — Auditoria e Matriz de Risco**: as 3 anomalias, a matriz de severidade/impacto e as instruções ao Cientista de Dados;
+- **Entregável 2 — Backlog Ágil**: as User Stories e os Critérios de Aceite;
+- **Entregável 3 — Relatório Executivo**: o comunicado de até 1 página à Diretoria;
 - **o link do seu vídeo, no topo do `README.md` do fork** (veja o item 2).
 
-Organize os arquivos de forma clara (uma pasta ou seção por entregável). Se usou alguma exploração de dados para embasar a auditoria, pode incluí-la — mas o foco é a **análise e a comunicação**, não o código.
+Use as células de **markdown** para a análise e a comunicação (é o que mais pesa) e as células de **código** para embasar a auditoria — a exploração dos dados que sustenta as anomalias que você apontou. Se rodar código, inclua um **`requirements.txt`** para conseguirmos reproduzir.
 
 ### 2. Um vídeo de até 5 minutos, no YouTube
 
@@ -122,14 +122,7 @@ A entrega final do teste é feita **pelo formulário**:
 
 Você só precisa do **link do seu fork**.
 
-> **Precisando se comunicar durante o teste?** Escreva para **lucas@dg.energy**. Use esse e-mail.
+> **Precisando se comunicar durante o teste?** Escreva para **gabrie@dg.energy**. Use esse e-mail.
 
----
-
-## Como avaliamos
-
-1. **Capacidade Analítica** — como você lida com dados ausentes ou inconsistentes e a solidez das suas métricas de avaliação. É o critério que mais pesa.
-2. **Lógica de Negócios** — quão bem você traduziu o problema do setor elétrico (fórmulas e regras do SCEE) para sua análise.
-3. **Comunicação** — clareza na classificação (Matriz de Risco), poder de síntese nos documentos e no vídeo executivo.
 
 Boa sorte. Estamos ansiosos para ver sua solução.
