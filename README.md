@@ -1,6 +1,6 @@
 # Teste Analista de Projetos P&D — Digital Grid — Leonardo Furlan
 
-🎥 **Vídeo de apresentação:** https://youtu.be/Ei9QiCEbf9I
+🎥 **Vídeo de apresentação:** https://youtu.be/GH7FzfosXiU
 
 Vaga: Analista de Projetos — P&D (Bolsista)
 
